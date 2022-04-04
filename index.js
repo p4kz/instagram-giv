@@ -1,5 +1,4 @@
 
-require('dotenv').config()
 const instaTouch = require('instatouch')
 const fs = require('fs')
 
